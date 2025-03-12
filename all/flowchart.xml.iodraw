@@ -56,8 +56,8 @@
         </mxCell>
         <mxCell id="8uu4tVEnRhQbyeZWMHJ7-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="116" y="449" as="sourcePoint" />
-            <mxPoint x="116" y="319" as="targetPoint" />
+            <mxPoint x="165" y="449" as="sourcePoint" />
+            <mxPoint x="165" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8uu4tVEnRhQbyeZWMHJ7-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -77,8 +77,8 @@
         </mxCell>
         <mxCell id="8uu4tVEnRhQbyeZWMHJ7-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="846" y="449" as="sourcePoint" />
-            <mxPoint x="846" y="319" as="targetPoint" />
+            <mxPoint x="794" y="449" as="sourcePoint" />
+            <mxPoint x="794" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8uu4tVEnRhQbyeZWMHJ7-36" value="&lt;b&gt;社会可持续&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
