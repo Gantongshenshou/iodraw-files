@@ -19,12 +19,6 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-242" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;标题3&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=#1F9974;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1750" y="365" width="167" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-243" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#FF8000;" parent="1" target="ktdcQTFvYibY1Uf1pSOm-240" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1048" y="402.5" as="sourcePoint" />
-            <mxPoint x="1138" y="402.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-244" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#00CC00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1337" y="401.5" as="sourcePoint" />
@@ -66,9 +60,6 @@
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-253" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 36px&quot;&gt;标题9&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=#B9E0A5;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1759" y="1147" width="167" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-254" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=#1F9974;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="2049" y="1147" width="167" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-255" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#FFD966;" parent="1" target="ktdcQTFvYibY1Uf1pSOm-252" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
