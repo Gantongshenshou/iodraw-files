@@ -10,9 +10,6 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-238" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.40161929089870163;endAngle=0.07880290637021828;strokeColor=#67AB9F;strokeWidth=6;fillColor=#67AB9F;rotation=180;" parent="1" vertex="1">
           <mxGeometry x="1695" y="395" width="486" height="406" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-239" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 36px&quot;&gt;开始&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=#FFD966;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="881" y="365" width="167" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-240" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;标题1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=#97D077;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1170" y="365" width="167" height="75" as="geometry" />
         </mxCell>
