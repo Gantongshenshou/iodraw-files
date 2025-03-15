@@ -55,26 +55,17 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-251" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 36px&quot;&gt;当代&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=#FFE599;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1180" y="1147" width="167" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-258" value="" style="strokeWidth=7;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#B9E0A5;strokeColor=#97D077;" parent="1" vertex="1">
-          <mxGeometry x="1238" y="506.5" width="57" height="103" as="geometry" />
-        </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-259" value="" style="endArrow=none;html=1;strokeColor=#97D077;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1238" y="517.5" as="sourcePoint" />
             <mxPoint x="1238" y="431.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-260" value="" style="strokeWidth=7;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#B9E0A5;strokeColor=#E1D5E7;" parent="1" vertex="1">
-          <mxGeometry x="1535" y="516.5" width="57" height="103" as="geometry" />
-        </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-261" value="" style="endArrow=none;html=1;strokeColor=#E1D5E7;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1535" y="527.5" as="sourcePoint" />
             <mxPoint x="1535" y="441.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-262" value="" style="strokeWidth=7;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#B9E0A5;strokeColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="1842.5" y="516.5" width="57" height="103" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-263" value="" style="endArrow=none;html=1;strokeColor=#67AB9F;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,17 +115,11 @@
             <mxPoint x="1245" y="829.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-278" value="" style="strokeWidth=7;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#B9E0A5;strokeColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="1535" y="904.5" width="57" height="103" as="geometry" />
-        </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-279" value="" style="endArrow=none;html=1;strokeColor=#A9C4EB;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1535" y="915.5000000000002" as="sourcePoint" />
             <mxPoint x="1535" y="829.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-280" value="" style="strokeWidth=7;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#B9E0A5;strokeColor=#D4E1F5;" parent="1" vertex="1">
-          <mxGeometry x="1842.5" y="904.5" width="57" height="103" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-281" value="" style="endArrow=none;html=1;strokeColor=#D4E1F5;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
