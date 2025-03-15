@@ -118,9 +118,6 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-275" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;内容&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="2003.5" y="599.5" width="80" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-276" value="" style="strokeWidth=7;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#B9E0A5;strokeColor=#9AC7BF;" parent="1" vertex="1">
-          <mxGeometry x="1245" y="904.5" width="57" height="103" as="geometry" />
-        </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-277" value="" style="endArrow=none;html=1;strokeColor=#9AC7BF;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1245" y="915.5" as="sourcePoint" />
